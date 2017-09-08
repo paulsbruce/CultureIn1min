@@ -1,8 +1,5 @@
 # Culture in 1min
 
-Powered by:
-[![N|Solid](http://growgistics.io/wp-content/uploads/2017/08/banner-2.png)](https://nodesource.com/products/nsolid)
-
 CultureIn1min is a reference application used to help Growgistics customers easily assess aspects of their engineering culture, visualize gaps, and plan for improvement.
 
   - Uses established, peer-reviewed model for assessment (Westrum, Forsgren)
@@ -21,5 +18,7 @@ Engineering culture can be broken out into multiple aspects such as levels of co
 Measuring aspects of your organization's culture is the first step in identifying problem areas, building on your strengths, and planning for improvements. As time progresses, re-assessment and comparison helps to visualize the change in these areas. As you prioritize improvements and continue to track impact trends, you'll begin to expose elements of causality and learn what really works for your environment.
 
 ### Free Software ###
+
+[![N|Solid](http://growgistics.io/wp-content/uploads/2017/08/banner-2.png)](https://nodesource.com/products/nsolid)
 
 Growgistics kindly hosts this app so you can just sign up and send it out to your team. However, you can also host it yourself. Just download this repo and customize the 'deploy' artifacts.
